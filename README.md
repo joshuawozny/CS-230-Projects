@@ -3,7 +3,7 @@
 CS-230 covers alot of material revolving around system architectures, and the difference between different operating systems. This includes discussions regarding storage and memory management, security, programming languages, and much more. Included in CS-230 are dicussions and examples of software design patterns and templates - and how they might be utilized on different operating systems. Throughout the course we have been developing a software design document for a company called The Game Room for their application, Draw It or Lose It. Project 3 finalizes the document by completing the Recomendations section.
 
 ## Project 3
-The Project 2 guidelines rquires the following:
+The Project 3 guidelines rquires the following:
 > Analyze the characteristics of and techniques specific to various systems architectures and make a recommendation to The Gaming Room. Specifically, address the following in the Recommendations section of the software design document:
 >* Operating Platform: Recommend an appropriate operating (server) platform that will allow The Gaming Room to expand Draw It or Lose It to other computing environments.
 >* Operating Systems Architectures: Describe the details of the chosen operating platform architectures.
