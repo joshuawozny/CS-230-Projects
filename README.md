@@ -7,8 +7,9 @@ Draw It or Lose It will be a multiplayer, cross-platform application that needs 
 <hr>
 
 Creating the design document will allow development of the game to proceed efficiently and thoughtfully. It allows for more clarity durning the develpment process which should prevent unneccesary refactoring during the development process. 
-
-Project 3 finalizes the document by completing the Recomendations section.
+* <b>Project 1</b> begins the process of creating the design document, and creating starter java code creating an Entity class as a base class, and other classes using the singleton and iterator patterns to provide a foundation for future development efforts. Project 1 also intoroduces UML diagrams that we use to model the application.
+* <b>Project 2</b> develops the design document further by evaluating how best to architect our application answering questions like: What Operating System, client-server design, etc.
+* <b>Project 3</b> finalizes the document by completing the Recomendations section.
 
 ## Project 3
 The Project 3 guidelines requires the following:
