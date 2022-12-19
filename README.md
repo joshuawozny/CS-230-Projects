@@ -20,4 +20,4 @@ The Project 3 guidelines requires the following:
 >* Distributed Systems and Networks: Knowing that the client would like Draw It or Lose It to communicate between various platforms, explain how this may be accomplished with distributed software and the network that connects the devices. Consider the dependencies between the components within the distributed systems and networks (connectivity, outages, and so on).
 >* Security: Security is a must-have for the client. Explain how to protect user information on and between various platforms. Consider the user protection and security capabilities of the recommended operating platform.
 
-https://learn.snhu.edu/d2l/le/content/1195310/viewContent/20843061/View
+From the [SNHU Rubric](https://learn.snhu.edu/d2l/le/content/1195310/viewContent/20843061/View)
